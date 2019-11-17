@@ -16,3 +16,5 @@ This repository describes issue which is reproduced on Windows system.
 English version of this exception: `ImportError: DLL load failed: A dynamic link library (DLL) initialization routine failed.`
 
 PS: This issue is not reproduced (even with 200 count of import) on Ubuntu 18.04. On MacOS it wasn't tested.
+
+PSS: related issue in python community - https://bugs.python.org/issue38597 
